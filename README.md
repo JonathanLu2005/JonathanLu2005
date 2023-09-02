@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonathanLu2005
 - 👀 I’m interested in software engineering and specialised fields.
-- 🌱 I’m currently learning JavaScript, Python, HTML, CSS and SQL as a student.
+- 🌱 I have learnt Python, SQL, HTML and CSS. Hoping to learn JavaScript and GIT this month! Alongside cracking down on interview questions.
 - 📫 Feel free to reach me via LinkedIn! https://www.linkedin.com/in/jonathan-lu-078259216/
 
 <!---
