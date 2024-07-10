@@ -4,35 +4,22 @@ Feel free to check out my projects (doubt they're interesting)
 
 Currently a Software Engineering Intern at WMG
 
-Technical skills: 
+**Technical skills:** 
+- Python (Pandas, Numpy, Matplotlib, Flask, Django, PostgreSQL, MySQL, SQLite)
+- Java
+- Haskell
+- HTML & CSS (BootStrap)
+- JavaScript
+- SQL
+- Git
 
-Python (Pandas, Numpy, Matplotlib, Flask, Django, PostgreSQL, MySQL, SQLite)
-
-Java
-
-Haskell
-
-HTML & CSS (BootStrap)
-
-JavaScript
-
-SQL
-
-Git
-
-Looking to learn more into:
-
-React
-
-DevOps (Kubernetes and Docker)
-
-C++
-
-APIs
-
-Apps (Kotlin)
-
-Training AI/ML/NLP/CV Models
+**Looking to learn more into:**
+- React
+- DevOps (Kubernetes and Docker)
+- C++
+- APIs
+- Apps (Kotlin)
+- Training AI/ML/NLP/CV Models
 
 
 <!---
