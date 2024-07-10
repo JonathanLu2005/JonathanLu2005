@@ -2,7 +2,7 @@ Hi, I'm Jonathan! Currently surviving BSc Computer Science at Warwick.
 
 Feel free to check out my projects (doubt they're interesting)
 
-Currently a Software Engineering Intern at WMG
+Software Engineering Intern at WMG
 
 **Technical skills:** 
 - Python (Pandas, Numpy, Matplotlib, Flask, Django, PostgreSQL, MySQL, SQLite)
