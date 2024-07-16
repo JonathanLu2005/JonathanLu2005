@@ -5,16 +5,15 @@ Feel free to check out my projects (doubt they're interesting)
 Software Engineering Intern at WMG
 
 **Technical skills:** 
-- Python (Pandas, Numpy, Matplotlib, Flask, Django, PostgreSQL, MySQL, SQLite)
+- Python (Pandas, Numpy, Matplotlib, Flask, Django, Reportlab)
 - Java
 - Haskell
 - HTML & CSS (BootStrap)
-- JavaScript
-- SQL
+- JavaScript (React)
+- SQL (PostgreSQL, MySQL, SQLite)
 - Git
 
 **Looking to learn more into:**
-- React
 - DevOps (Kubernetes and Docker)
 - C++
 - APIs
