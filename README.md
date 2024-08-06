@@ -12,12 +12,11 @@ Software Engineering Intern at WMG
 - JavaScript (React)
 - SQL (PostgreSQL, MySQL, SQLite)
 - Git
-
+- APIs
+- 
 **Looking to learn more into:**
 - DevOps (Kubernetes and Docker)
 - C++
-- APIs
-- Apps (Kotlin)
 - Training AI/ML/NLP/CV Models
 
 **Linkedin:** https://www.linkedin.com/in/jonathan-lu-078259216/
