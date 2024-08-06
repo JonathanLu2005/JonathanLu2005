@@ -13,7 +13,7 @@ Software Engineering Intern at WMG
 - SQL (PostgreSQL, MySQL, SQLite)
 - Git
 - APIs
-- 
+  
 **Looking to learn more into:**
 - DevOps (Kubernetes and Docker)
 - C++
