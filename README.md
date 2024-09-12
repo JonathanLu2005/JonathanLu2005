@@ -3,6 +3,7 @@ Hi, I'm Jonathan! Currently surviving BSc Computer Science at Warwick.
 Feel free to check out my projects (doubt they're interesting)
 
 Professional Experience: 
+
 Software Engineering Intern at WMG - Summer of 2024
 
 **Technical skills:** 
