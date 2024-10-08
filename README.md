@@ -15,10 +15,10 @@ Software Engineering Intern at WMG - Summer of 2024
 - SQL (PostgreSQL, MySQL, SQLite)
 - Git
 - APIs
+- C
   
 **Looking to learn more into:**
 - DevOps (Kubernetes and Docker)
-- C++
 - Training AI/ML/NLP/CV Models
 
 **Linkedin:** https://www.linkedin.com/in/jonathan-lu-078259216/
