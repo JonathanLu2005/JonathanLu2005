@@ -4,6 +4,8 @@ Feel free to check out my projects (doubt they're interesting)
 
 Professional Experience: 
 
+Incoming Software Engineering Intern at Amazon - Summer of 2025
+
 Software Engineering Intern at WMG - Summer of 2024
 
 **Technical skills:** 
