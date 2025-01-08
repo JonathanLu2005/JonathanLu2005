@@ -6,6 +6,8 @@
 
 ###
 
+<h4 align="left">GitHub Stats:</h4>
+
 <img src="https://raw.githubusercontent.com/JonathanLu2005/JonathanLu2005/output/snake.svg" alt="Snake animation" />
 
 ###
