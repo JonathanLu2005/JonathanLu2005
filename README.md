@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jonathan, a Computer Science student at Warwick University.<br><br>Incoming Software Engineering Intern at Amazon for the Summer of 2025.</p>
+<p align="left">I'm Jonathan, a Computer Science student at Warwick University.</p>
 
 ###
 
